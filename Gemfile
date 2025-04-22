@@ -6,6 +6,7 @@ gem 'jekyll'
 group :jekyll_plugins do
     gem 'jekyll-archives-v2'
     gem 'jekyll-email-protect'
+    gem 'jekyll'
     gem 'jekyll-feed'
     gem 'jekyll-get-json'
     gem 'jekyll-imagemagick'
